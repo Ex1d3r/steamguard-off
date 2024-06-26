@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "imap-simple": "^5.1.0",
+    "mailparser": "^3.7.1",
+    "p-limit": "^5.0.0",
+    "puppeteer": "^22.10.0"
+  }
+}
