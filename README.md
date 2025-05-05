@@ -1,3 +1,13 @@
+```
+  _____  __  __  _____  _____   ______  _____  
+ | ____| \ \/ / |_   _||  __ \ |  ____||  __ \ 
+ | |__    \  /    | |  | |  | || |__   | |__) |
+ |  __|    \/     | |  | |  | ||  __|  |  _  / 
+ | |____  /  \   _| |_ | |__| || |____ | | \ \ 
+ |______||/\/\| |_____||_____/ |______||_|  \_\
+```
+
+
 Steam-Guard Script
 
 This script automates the process of logging into Steam accounts and disabling Steam Guard using Puppeteer and IMAP email access
